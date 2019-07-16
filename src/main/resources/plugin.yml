@@ -1,0 +1,7 @@
+name: Dynmap-EliteMobs
+version: 0.2.0
+description: Displays EliteMob event on the map
+author: CousieG
+api-version: 1.14
+main: io.github.alexgraz.dynmapelitemobs.DynmapEliteMobs
+depend: [EliteMobs, dynmap]
