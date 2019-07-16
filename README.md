@@ -11,7 +11,7 @@ Current functionality consists of displaying an event bosses location, name and 
 
 Remaining tasks until production ready:
 - Squash remaining function critical bugs (Only a few left)
-- Complete config file functionality
+- Implement config file functionality and options
 
 Non-critical functionality planned:
 - Cleanup/refactor code
