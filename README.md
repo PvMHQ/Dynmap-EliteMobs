@@ -1,5 +1,4 @@
 # Dynmap-EliteMobs
-Spigot/Paper plugin for displaying [EliteMobs](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/) entities on a [Dynmap](https://www.spigotmc.org/resources/dynmap.274/). 
 
 Current functionality consists of displaying an event bosses location, name and health.
 
