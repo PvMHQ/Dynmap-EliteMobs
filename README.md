@@ -2,11 +2,11 @@
 
 Current functionality consists of displaying an event bosses location, name and health.
 
-**Targeted Minecraft version: 1.14**
+**Targeted Minecraft version: 1.16.1**
 
 **Targeted Dynmap version: v3.0-beta-4**
 
-**Required EliteMobs version: >= 7.0.17.2**
+**Required EliteMobs version: >= 7.1.41**
 
 Remaining tasks until production ready:
 - Squash remaining function critical bugs (Only a few left)
